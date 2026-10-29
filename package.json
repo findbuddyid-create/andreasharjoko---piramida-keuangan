@@ -1,0 +1,28 @@
+{
+  "name": "andreasharjoko---piramida-keuangan",
+  "version": "1.0.0",
+  "description": "Tool video untuk konten Piramida Keuangan (Remotion, HyperFrames)",
+  "scripts": {
+    "remotion": "remotion",
+    "hyperframes": "hyperframes"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/findbuddyid-create/andreasharjoko---piramida-keuangan.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/findbuddyid-create/andreasharjoko---piramida-keuangan/issues"
+  },
+  "homepage": "https://github.com/findbuddyid-create/andreasharjoko---piramida-keuangan#readme",
+  "private": true,
+  "dependencies": {
+    "@remotion/cli": "^4.0.539",
+    "hyperframes": "^0.8.217",
+    "react": "^19.3.1",
+    "react-dom": "^19.3.1",
+    "remotion": "^4.0.539"
+  }
+}
